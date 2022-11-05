@@ -2,17 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=IBM+Plex+Sans+Arabic:wght@100&family=Mulish:wght@300&family=Nanum+Pen+Script&family=Poppins:wght@200;300&display=swap');
 
 html body {background-color: rgb(63, 62, 62);} 
-
-.container img {
-    width: 50% !important;
-    height: 50% !important;
-}
+.container img {width: 50% !important; height: 50% !important;}
 
 
 button {color: white;}
-
 .navbar-brand, .nav-link, .container {color: white !important;}
-
 .gallery img, .gallery video {width: 100% !important; height: auto !important;}
 
 
