@@ -6,7 +6,6 @@ function isVideo(i) {
     return i instanceof HTMLVideoElement;
 }
 
-
 function select_photo() {
     document.getElementById('photo-select').style.color = 'rgb(105, 105, 105)';
     document.getElementById('video-select').style.color = 'white';
